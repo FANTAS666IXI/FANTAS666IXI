@@ -35,8 +35,11 @@ I’m an indie game developer who loves creating digital art, coding fun mechani
 ---
 
 ## 🌌 Portal
-[![StackOverflow](https://img.shields.io/badge/Youtube-%23000000?style=for-the-badge&logo=Youtube&logoColor=orange&color=black)](https://www.youtube.com/@FANTAS666X)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-%23000000?style=for-the-badge&logo=stackOverflow&logoColor=orange&color=white)](https://stackoverflow.com/users/23405218/fantas666x)
+[![Itch IO](https://img.shields.io/badge/Itchio-%23000000?style=for-the-badge&logo=itchdotio&logoColor=orange&color=white)](https://fantas666x.itch.io)
+[![YouTube](https://img.shields.io/badge/Youtube-%23000000?style=for-the-badge&logo=youtube&logoColor=red&color=black)](https://www.youtube.com/@FANTAS666X)
+[![X](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white&color=black)](https://x.com/FANTAS666X)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=fuchsia&color=orange)](https://www.instagram.com/FANTAS666lXl)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-%23000000?style=for-the-badge&logo=stackoverflow&logoColor=orange&color=white)](https://stackoverflow.com/users/23405218/fantas666x)
 
 ---
 
