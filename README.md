@@ -25,6 +25,11 @@ I’m an indie game developer who loves creating digital art, coding fun mechani
 ---
 
 ## 🎮 Current Misions  
+  - **[POKEMON 2D](https://github.com/FANTAS666IXI/F6X-POKEMON-2D)**
+  - **[UNITY PARKOUR CLIMBIMG SYSTEM](https://github.com/FANTAS666IXI/UNITY-PARKOUR-CLIMBING-SYSTEM)**
+  - **[THE GOLDEN TOUCH](https://github.com/FANTAS666IXI/F6X-THE-GOLDEN-TOUCH)**
+  - **[POKEWALKER](https://github.com/FANTAS666IXI/F6X-POKEWALKER)**
+  - **[VOLTORB FLIP](https://github.com/FANTAS666IXI/F6X-VOLTORB-FLIP)**
 
 ---
 
